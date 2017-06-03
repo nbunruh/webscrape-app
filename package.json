@@ -1,0 +1,20 @@
+{
+  "name": "Webscraper App",
+  "version": "1.0.0",
+  "description": "Scrape articles from your favorite website",
+  "main": "index.js",
+  
+  "author": "Nolan Unruh",
+  "license": "ISC",
+  
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.10.3",
+    "mongojs": "^4.2.0",
+    "morgan": "^1.8.2",
+    "request": "^2.81.0"
+  }
+}
